@@ -2,7 +2,6 @@
 <p align="center">
 <img width="100%" src="https://www.hackread.com/wp-content/uploads/2020/04/fraud-hacking-guides-are-the-most-sold-item-on-the-dark-web-4.jpg" />
 </p>
-# Index
 
 **All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/All-Modules.md) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/Samsar4/CEH-v11-Study-Guide/blob/master/modules/All-Modules.html)
 
