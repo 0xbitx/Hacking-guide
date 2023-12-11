@@ -1,11 +1,13 @@
-# Hacking-guide
+
 <p align="center">
-<img width="100%" src="https://www.hackread.com/wp-content/uploads/2020/04/fraud-hacking-guides-are-the-most-sold-item-on-the-dark-web-4.jpg" />
+<img src="https://cdn-icons-png.flaticon.com/512/12503/12503225.png", width="200", height="200">
 </p>
 
-**All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/All-Modules.md) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/Samsar4/CEH-v11-Study-Guide/blob/master/modules/All-Modules.html)
+<h1 align="center"> HACKING GUIDE</h1>
+<h4 align="center">HACKING GUIDE is a collection of hacking guide books.</h4>
 
-
+### DESCRIPTION 
+HACKING GUIDE is a comprehensive resource for aspiring ethical hackers, providing step-by-step tutorials and tools to enhance cybersecurity knowledge. This guide equips users with essential skills to understand and mitigate potential security risks. HACKING GUIDE covers various aspects of ethical hacking, including penetration testing, vulnerability analysis, and network security. Users can explore practical demonstrations and gain insights into the latest cybersecurity techniques. It's important to note that HACKING GUIDE is designed for educational purposes, promoting ethical hacking practices and adhering to strict ethical standards. The guide emphasizes responsible and legal use of hacking knowledge to strengthen digital defenses and protect against potential threats.
 
 1. [Module 01 - Introduction to Ethical Hacking](https://github.com/0xbitx/Hacking-guide/blob/master/1-Introduction.md)
 2. [Module 02 - Footprinting and Reconnaissance](https://github.com/0xbitx/Hacking-guide/blob/master/2-Footprinting-and-Reconnaissance.md)
