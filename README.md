@@ -13,7 +13,7 @@ HACKING GUIDE is a comprehensive resource for aspiring ethical hackers, providin
 2. [Module 02 - Footprinting and Reconnaissance](https://github.com/0xbitx/Hacking-guide/blob/master/2-Footprinting-and-Reconnaissance.md)
 3. [Module 03 - Scanning Networks](https://github.com/0xbitx/Hacking-guide/blob/master/3-Scanning-Networks.md)
 4. [Module 04 - Enumeration](https://github.com/0xbitx/Hacking-guide/blob/master/2-Scanning-and-Enumeration.md)
-5. [Module 05 - Vulnerability Analysis](https://github.com/0xbitx/Hacking-guide/blob/main/5-Vulnerability-Analysis.md)
+5. [Module 05 - Vulnerability Analysis](https://github.com/0xbitx/Hacking-guide/blob/master/5-Vulnerability-Analysis.md)
 6. [Module 06 - System Hacking](https://github.com/0xbitx/Hacking-guide/blob/master/6-System-Hacking.md)
 7. [Module 07 - Malware Threats](https://github.com/0xbitx/Hacking-guide/blob/master/7-Malware.md)
 8. [Module 08 - Sniffing](https://github.com/0xbitx/Hacking-guide/blob/master/8-Sniffing.md)
